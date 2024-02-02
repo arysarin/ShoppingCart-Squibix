@@ -1,2 +1,2 @@
-# ShoppingCart-Squibix
+# ShoppingCart
  
